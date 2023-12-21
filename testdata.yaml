@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+login: 'GB2023090a5863'
+password: '18f73fdd23'
+login_dummy: 'Misty Hegmann'
+password_dummy: '0b34ebddba'
+title_new_post: 'rr'
